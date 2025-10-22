@@ -9,3 +9,4 @@
 - jwt (long short term tokens)
 - flask
 - prisma
+- bash scripting
